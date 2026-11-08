@@ -1,0 +1,20 @@
+# ── Python ──────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# ── 密钥：绝不提交（key 只放这里）──────────
+.env
+.env.*
+!.env.example
+
+# ── Node ──────────────────────────────────
+node_modules/
+
+# ── 系统/编辑器 ───────────────────────────
+.DS_Store
+.idea/
+.vscode/
